@@ -1,25 +1,110 @@
 Windows Registry Editor Version 5.00
 
+; Putty Theme unnamed
+; Scheme author: AUTHOR_HERE
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\farmhouse-light]
-"Colour2"="232,228,225"
-"Colour3"="232,228,225"
+
+; Default Foreground
+; Colour0 #1d2027
 "Colour0"="29,32,39"
+
+; Default Bold Foreground  -- equals to non-bold
+; Colour1 #eb0009
 "Colour1"="235,0,9"
-"Colour5"="0,110,254"
+
+; Default Background
+; Colour2 #e8e4e1
+"Colour2"="232,228,225"
+
+; Default Bold Background  -- equals to non-bold
+; Colour3 #e8e4e1
+"Colour3"="232,228,225"
+
+; Cursor Text -- equals to default background
+; Colour4 #1d2027
 "Colour4"="29,32,39"
+
+; Cursor Colour -- equals to default foreground
+; Colour5 #006efe
+"Colour5"="0,110,254"
+
+; ANSI Black
+; 30m
+; Colour6 #1d2027
 "Colour6"="29,32,39"
-"Colour8"="141,0,3"
-"Colour11"="122,193,0"
-"Colour13"="234,154,0"
-"Colour15"="0,110,254"
-"Colour17"="191,59,127"
-"Colour19"="25,224,98"
-"Colour21"="244,238,240"
-"Colour10"="58,125,0"
-"Colour12"="169,86,0"
-"Colour14"="9,44,205"
-"Colour16"="130,0,70"
-"Colour18"="34,146,86"
-"Colour20"="232,228,225"
+
+; ANSI Black Bright
+; 1;30m
+; Colour7 #394047
 "Colour7"="57,64,71"
+
+; ANSI Red
+; 31m
+; Colour8 #8d0003
+"Colour8"="141,0,3"
+
+; ANSI Red Bright
+; 1;31m
+; Colour9 #eb0009
 "Colour9"="235,0,9"
+
+; ANSI Green
+; 32m
+; Colour10 #3a7d00
+"Colour10"="58,125,0"
+
+; ANSI Green Bright
+; 1;32m
+; Colour11 #7ac100
+"Colour11"="122,193,0"
+
+; ANSI Yellow
+; 33m
+; Colour12 #a95600
+"Colour12"="169,86,0"
+
+; ANSI Yellow Bright
+; 1;33m
+; Colour13 #ea9a00
+"Colour13"="234,154,0"
+
+; ANSI Blue
+; 34m
+; Colour14 #092ccd
+"Colour14"="9,44,205"
+
+; ANSI Blue Bright
+; 1;34m
+; Colour15 #006efe
+"Colour15"="0,110,254"
+
+; ANSI Magenta
+; 35m
+; Colour16 #820046
+"Colour16"="130,0,70"
+
+; ANSI Magenta Bright
+; 1;35m
+; Colour17 #bf3b7f
+"Colour17"="191,59,127"
+
+; ANSI Cyan
+; 36m
+; Colour18 #229256
+"Colour18"="34,146,86"
+
+; ANSI Cyan Bright
+; 1;36m
+; Colour19 #19e062
+"Colour19"="25,224,98"
+
+; ANSI White
+; 37m
+; Colour20 #e8e4e1
+"Colour20"="232,228,225"
+
+; ANSI White Bright
+; 1;37m
+; Colour21 f4eef0
+"Colour21"="244,238,240"
+
