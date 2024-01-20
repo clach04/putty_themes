@@ -1,0 +1,20 @@
+GIMP Palette
+#Palette Name: Krzywinski Colorblind 16
+#Description: A color palette for color blindness developed by Martin KrzywinskiMartin Krzywinski. This palette is designed so that colors can be distinguished by individuals with deutranopia and protanopia. Some colors may appear similar to individuals with tritanopia. The original palette has 15 colors, since it assumes a white field. White has been added as a sixteenth color. From https://lospec.com/palette-list/krzywinski-colorblind-16
+#Colors: 16
+0	0	0	000000
+0	73	73	004949
+0	146	146	009292
+255	109	182	ff6db6
+255	182	219	ffb6db
+73	0	146	490092
+0	110	219	006edb
+182	109	255	b66dff
+109	182	255	6db6ff
+182	219	255	b6dbff
+146	0	0	920000
+146	73	0	924900
+219	109	0	db6d00
+36	255	36	24ff24
+255	255	109	ffff6d
+255	255	255	ffffff
