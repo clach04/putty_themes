@@ -24,3 +24,10 @@ Also see https://github.com/mattly/colors-farmhouse which has both emacs and ite
 
 #### farmhouse-dark
 #### farmhouse-light.reg
+
+## Also See
+
+  * https://lospec.com/palette-list/
+  * http://mkweb.bcgsc.ca/color/
+      * http://mkweb.bcgsc.ca/colorsummarizer/ - perl (Windows exe available) and online
+      * http://mkweb.bcgsc.ca/colornames/ - color name database/lists
