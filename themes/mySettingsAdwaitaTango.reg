@@ -13,8 +13,8 @@ Windows Registry Editor Version 5.00
 "Colour1"="255,255,255"
 
 ; Default Background
-; Colour2 #2e3436
-"Colour2"="46,52,54"
+; Colour2 #000000
+"Colour2"="0,0,0"
 
 ; Default Bold Background  -- equals to non-bold
 ; Colour3 #555753
