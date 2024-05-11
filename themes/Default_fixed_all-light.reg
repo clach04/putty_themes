@@ -1,0 +1,109 @@
+Windows Registry Editor Version 5.00
+
+; Putty Theme Default_fixed_all-light.reg
+; Scheme author: AUTHOR_HERE - Essentially a light version of Default_fixed_all-dark
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Default_fixed_all-light]
+
+; Default Foreground
+; Colour0 #3f3f3f
+"Colour0"="63,63,63"
+
+; Default Bold Foreground  -- equals to non-bold
+; Colour1 #555555
+"Colour1"="85,85,85"
+
+; Default Background
+; Colour2 #ffffff
+"Colour2"="255,255,255"
+
+; Default Bold Background  -- equals to non-bold
+; Colour3 #bbbbbb
+"Colour3"="187,187,187"
+
+; Cursor Text -- equals to default background
+; Colour4 #00ff00
+"Colour4"="0,255,0"
+
+; Cursor Colour -- equals to default foreground
+; Colour5 #000000
+"Colour5"="0,0,0"
+
+; ANSI Black
+; 30m / 40m
+; Colour6 #000000
+"Colour6"="0,0,0"
+
+; ANSI Black Bright
+; 1;30m
+; Colour7 #555555
+"Colour7"="85,85,85"
+
+; ANSI Red
+; 31m / 41m
+; Colour8 #bb0000
+"Colour8"="187,0,0"
+
+; ANSI Red Bright
+; 1;31m
+; Colour9 #ff5555
+"Colour9"="255,85,85"
+
+; ANSI Green
+; 32m / 42m
+; Colour10 #00bb00
+"Colour10"="0,187,0"
+
+; ANSI Green Bright
+; 1;32m
+; Colour11 #55ff55
+"Colour11"="85,255,85"
+
+; ANSI Yellow
+; 33m / 43m
+; Colour12 #bbbb00
+"Colour12"="187,187,0"
+
+; ANSI Yellow Bright
+; 1;33m
+; Colour13 #666600
+"Colour13"="102,102,0"
+
+; ANSI Blue
+; 34m / 44m
+; Colour14 #4a4aff
+"Colour14"="74,74,255"
+
+; ANSI Blue Bright
+; 1;34m
+; Colour15 #8c8cff
+"Colour15"="140,140,255"
+
+; ANSI Magenta
+; 35m / 45m
+; Colour16 #860086
+"Colour16"="134,0,134"
+
+; ANSI Magenta Bright
+; 1;35m
+; Colour17 #ff55ff
+"Colour17"="255,85,255"
+
+; ANSI Cyan
+; 36m / 46m
+; Colour18 #009393
+"Colour18"="0,147,147"
+
+; ANSI Cyan Bright
+; 1;36m
+; Colour19 #55ffff
+"Colour19"="85,255,255"
+
+; ANSI White
+; 37m / 47m
+; Colour20 #dfdfdf
+"Colour20"="223,223,223"
+
+; ANSI White Bright
+; 1;37m
+; Colour21 9d9d9d
+"Colour21"="157,157,157"
