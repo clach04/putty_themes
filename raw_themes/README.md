@@ -8,6 +8,7 @@ Tango-Palette.gpl from https://web.archive.org/web/20230329090429/http://tango.f
 
 
 tango_putty.json created by converting script from https://winterdom.com/2009/05/03/configuring-putty-with-tango
+and now converted into `themes/Tango_Putty-dark.reg`.
 
 https://github.com/piousdeer/vscode-adwaita
 
