@@ -1,8 +1,12 @@
 # Putty Themes
 
+Putty Microsoft Windows registry files, colors only, does not attempt to set any other settings.
+
+NOTE these files can be processed with https://github.com/clach04/terminal_style_toolkit and converted into other formats.
+
 TODO added screenshots.
 
-Ideas:
+Suggestions for taking screenshots:
 
   1. Configure Putty settings
       * set window size in Putty settings, Window, Columns/Rows 80 by 33
@@ -14,3 +18,4 @@ Ideas:
       * Enter in `Cursor` and move cursor over `s`
   3. Decide if want to include Putty title/scrollbars? - Crop pixels size?
   4. save as PNG
+
