@@ -22,6 +22,8 @@ https://www.pierov.org/tag/adwaita/
 
 ### Nord theme
 
+See (untested) ericvw_nord.json - for use with json2putty_reg.py from https://github.com/clach04/terminal_style_toolkit
+
 https://www.nordtheme.com/docs/colors-and-palettes
   * https://github.com/ItzSwirlz/nord-lapce
   * https://github.com/nordtheme/putty - been broken for over a year as of 2024-08-31 16:46  https://github.com/nordtheme/putty/pull/11
