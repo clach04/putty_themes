@@ -2,7 +2,8 @@
     "scheme-name": "Nord",
     "scheme-author": "Eric N. Vander Weele (ericvw)",
     "scheme-slug": "Nord",
-    "#scheme-comment": "taken from https://github.com/ericvw/nordtheme-iterm2/commit/8ea99f6185dd5dc80de07cd922f8a287ef862cb1",
+    "#scheme-comment":  "taken from https://github.com/ericvw/nordtheme-iterm2/commit/8ea99f6185dd5dc80de07cd922f8a287ef862cb1",
+    "#scheme-comment2": "based on https://www.nordtheme.com/docs/colors-and-palettes",
 
 
     "#Colour0-comment": "Default Foreground",
@@ -58,7 +59,7 @@
     "Colour12-hex": "ebcb8b",
 
     "#Colour13-comment": "ANSI Yellow Bright - 1;33m",
-    "#Colour13-note": "nord12",
+    "#Colour13-note": "nord12 review, this is orange",
     "Colour13-hex": "d08770",
 
     "#Colour14-comment": "ANSI Blue - 34m / 44m",
