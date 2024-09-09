@@ -20,6 +20,12 @@ https://www.pierov.org/tag/adwaita/
 
 ## Check out
 
+### Catppuccin
+
+looks like 2024 new theme update expected to handle ansi 16 colors properly.
+
+https://github.com/catppuccin/catppuccin/issues/1961#issuecomment-2229047020
+
 ### Nord theme
 
 See (untested) ericvw_nord.json - for use with json2putty_reg.py from https://github.com/clach04/terminal_style_toolkit
