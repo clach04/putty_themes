@@ -52,6 +52,11 @@ For older Unix servers that only support black and white with bold (and maybe it
 
 Do not use the default font Putty picks! Consolas as shipped with Windows for a long time (see https://github.com/vim/vim/issues/12919 comments) is reasonable but there are better (free) fonts available that could be installed.
 
+### Behavior
+
+Window, Selection, Copy - worth enabling "Copy to clipboard in RTF as well as plain text"
+
+
 ## Themes
 
 
