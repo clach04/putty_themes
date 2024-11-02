@@ -5,6 +5,7 @@
     "scheme-comment":  "based on https://www.nordtheme.com/docs/colors-and-palettes",
     "scheme-comment1": "NOTE blues switched with proposal in https://github.com/nordtheme/iterm2/pull/16 to match spec",
     "scheme-comment3": "Also see GIMP Palette, nord.gpl",
+    "scheme-comment9": "For used with https://github.com/clach04/terminal_style_toolkit/",
 
 
     "#Colour0-putty": "Default Foreground",
