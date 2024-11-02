@@ -1,0 +1,97 @@
+{
+    "scheme-name": "Nord_flipped_blue",
+    "scheme-author": "Eric N. Vander Weele (ericvw) / clach04",
+    "scheme-slug": "Nord_flipped_blue",
+    "scheme-comment":  "based on https://www.nordtheme.com/docs/colors-and-palettes",
+    "scheme-comment1": "NOTE blues switched with proposal in https://github.com/nordtheme/iterm2/pull/16 to match spec",
+    "scheme-comment3": "Also see GIMP Palette, nord.gpl",
+
+
+    "#Colour0-putty": "Default Foreground",
+    "Colour0-note": "nord4",
+    "Colour0-hex": "d8dee9",
+
+    "#Colour1-putty": "Default Bold Foreground  -- equals to non-bold",
+    "Colour1-note": "nord6 actually bold/bright comment inaccurate in this instance",
+    "Colour1-hex": "eceff4",
+
+    "#Colour2-putty": "Default Background",
+    "Colour2-note": "nord0",
+    "Colour2-hex": "2e3440",
+
+    "#Colour3-putty": "Default Bold Background  -- equals to non-bold",
+    "Colour3-note": "nord0",
+    "Colour3-hex": "2e3440",
+
+    "#Colour4-putty": "Cursor Text -- equals to default background",
+    "Colour4-note": "nord1 - comment in inaccurate",
+    "Colour4-hex": "3b4252",
+
+    "#Colour5-putty": "Cursor Colour -- equals to default foreground",
+    "Colour5-note": "nord4",
+    "Colour5-hex": "d8dee9",
+
+    "#Colour6-putty": "ANSI Black - 30m / 40m",
+    "Colour6-note": "nord1",
+    "Colour6-hex": "3b4252",
+
+    "#Colour7-putty": "ANSI Black Bright - 1;30m",
+    "Colour7-note": "nord3",
+    "Colour7-hex": "4c566a",
+
+    "#Colour8-putty": "ANSI Red - 31m / 41m",
+    "Colour8-note": "nord11",
+    "Colour8-hex": "bf616a",
+
+    "#Colour9-putty": "ANSI Red Bright - 1;31m",
+    "Colour9-note": "nord11 FIXME!",
+    "Colour9-hex": "bf616a",
+
+    "#Colour10-putty": "ANSI Green - 32m / 42m",
+    "Colour10-note": "nord14",
+    "Colour10-hex": "a3be8c",
+
+    "#Colour11-putty": "ANSI Green Bright - 1;32m",
+    "Colour11-note": "nord14 FIXME!",
+    "Colour11-hex": "a3be8c",
+
+    "#Colour12-putty": "ANSI Yellow - 33m / 43m",
+    "Colour12-note": "nord13",
+    "Colour12-hex": "ebcb8b",
+
+    "#Colour13-putty": "ANSI Yellow Bright - 1;33m",
+    "Colour13-note": "nord12 review, this is orange",
+    "Colour13-hex": "d08770",
+
+    "#Colour14-putty": "ANSI Blue - 34m / 44m",
+    "Colour14-note": "nord10",
+    "Colour14-hex": "5e81ac",
+
+    "#Colour15-putty": "ANSI Blue Bright - 1;34m",
+    "Colour15-note": "nord9",
+    "Colour15-hex": "81a1c1",
+
+    "#Colour16-putty": "ANSI Magenta - 35m / 45m",
+    "Colour16-note": "nord15",
+    "Colour16-hex": "b48ead",
+
+    "#Colour17-putty": "ANSI Magenta Bright - 1;35m",
+    "Colour17-note": "nord15 FIXME!",
+    "Colour17-hex": "b48ead",
+
+    "#Colour18-putty": "ANSI Cyan - 36m / 46m",
+    "Colour18-note": "nord8",
+    "Colour18-hex": "88c0d0",
+
+    "#Colour19-putty": "ANSI Cyan Bright - 1;36m",
+    "Colour19-note": "nord7",
+    "Colour19-hex": "8fbcbb",
+
+    "#Colour20-putty": "ANSI White - 37m / 47m",
+    "Colour20-note": "nord5",
+    "Colour20-hex": "e5e9f0",
+
+    "#Colour21-putty": "ANSI White Bright - 1;37m",
+    "Colour21-note": "nord6",
+    "Colour21-hex": "eceff4"
+}
