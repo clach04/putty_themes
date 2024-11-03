@@ -1,0 +1,128 @@
+{
+    "####": "JSON template, result can be ran through https://github.com/clach04/terminal_style_toolkit/ tools",
+    "#EXAMPLE USAGE": "py -3 json2putty_reg.py dracula_pro_faceless.tstk",
+    "scheme-name": "Dracula Pro Faceless",
+    "scheme-author": "faceless and clach04",
+    "scheme-slug": "dracula_pro_faceless",
+    "scheme-comment":  "Based https://github.com/facelessuser/sublime-dracula-scheme/blob/master/Dracula%20Pro.sublime-color-scheme",
+    "scheme-comment1": "As yet unmapped",
+    "scheme-comment2": "orange: hsl(35, 100%, 75%),    // #ffca80",
+    "scheme-comment3": "pink: hsl(330, 100%, 75%),     // #ff80bf",
+    "scheme-comment4": "purple: hsl(250, 100%, 75%),   // #9580ff",
+    "scheme-comment5": "",
+    "scheme-comment6": "",
+    "scheme-comment7": "selection: color(var(background) s(15%) l(30%)),      // #434158",
+    "scheme-comment8": "comment: color(var(background) s(25%) l(55%)),        // #7470a9",
+    "scheme-comment9": "line-highlight: color(var(background) s(25%) l(25%)), // #323050",
+
+
+    "#Colour0-putty": "Default Foreground",
+    "Colour0-comment": "foreground: hsl(60, 30%, 96%), // #f8f8f2",
+    "Colour0-note": "",
+    "Colour0-hex": "f8f8f2",
+
+    "#Colour1-putty": "Default Bold Foreground  -- equals to non-bold",
+    "Colour1-comment": "",
+    "Colour1-note": "",
+    "Colour1-hex": "",
+
+    "#Colour2-putty": "Default Background",
+    "Colour2-comment": "background: hsl(245, 14%, 15%),                       // #22212c",
+    "Colour2-note": "",
+    "Colour2-hex": "22212c",
+
+    "#Colour3-putty": "Default Bold Background  -- equals to non-bold",
+    "Colour3-comment": "",
+    "Colour3-note": "",
+    "Colour3-hex": "",
+
+    "#Colour4-putty": "Cursor Text -- equals to default background",
+    "Colour4-comment": "",
+    "Colour4-note": "",
+    "Colour4-hex": "",
+
+    "#Colour5-putty": "Cursor Colour -- equals to default foreground",
+    "Colour5-comment": "",
+    "Colour5-note": "",
+    "Colour5-hex": "",
+
+    "#Colour6-putty": "ANSI Black - 30m / 40m",
+    "Colour6-comment": "https://github.com/facelessuser/sublime-dracula-scheme does not explictly set this, so map to same as; Default Background",
+    "Colour6-note": "",
+    "Colour6-hex": "22212c",
+
+    "#Colour7-putty": "ANSI Black Bright - 1;30m",
+    "Colour7-comment": "",
+    "Colour7-note": "",
+    "Colour7-hex": "",
+
+    "#Colour8-putty": "ANSI Red - 31m / 41m",
+    "Colour8-comment": "red: hsl(10, 100%, 75%),       // #ff9580",
+    "Colour8-note": "",
+    "Colour8-hex": "ff9580",
+
+    "#Colour9-putty": "ANSI Red Bright - 1;31m",
+    "Colour9-comment": "",
+    "Colour9-note": "",
+    "Colour9-hex": "",
+
+    "#Colour10-putty": "ANSI Green - 32m / 42m",
+    "Colour10-comment": "green: hsl(115, 100%, 75%),    // #8aff80",
+    "Colour10-note": "",
+    "Colour10-hex": "8aff80",
+
+    "#Colour11-putty": "ANSI Green Bright - 1;32m",
+    "Colour11-comment": "",
+    "Colour11-note": "",
+    "Colour11-hex": "",
+
+    "#Colour12-putty": "ANSI Yellow - 33m / 43m",
+    "Colour12-comment": "yellow: hsl(60, 100%, 75%),    // #ffff80",
+    "Colour12-note": "",
+    "Colour12-hex": "ffff80",
+
+    "#Colour13-putty": "ANSI Yellow Bright - 1;33m",
+    "Colour13-comment": "",
+    "Colour13-note": "",
+    "Colour13-hex": "",
+
+    "#Colour14-putty": "ANSI Blue - 34m / 44m",
+    "Colour14-comment": "blue: hsl(210, 100%, 75%),     // #80bfff",
+    "Colour14-note": "",
+    "Colour14-hex": "80bfff",
+
+    "#Colour15-putty": "ANSI Blue Bright - 1;34m",
+    "Colour15-comment": "",
+    "Colour15-note": "",
+    "Colour15-hex": "",
+
+    "#Colour16-putty": "ANSI Magenta - 35m / 45m",
+    "Colour16-comment": "TODO review this and bright for pink/purple",
+    "Colour16-note": "using purple for testing now",
+    "Colour16-hex": "9580ff",
+
+    "#Colour17-putty": "ANSI Magenta Bright - 1;35m",
+    "Colour17-comment": "",
+    "Colour17-note": "",
+    "Colour17-hex": "",
+
+    "#Colour18-putty": "ANSI Cyan - 36m / 46m",
+    "Colour18-comment": "cyan: hsl(170, 100%, 75%),     // #80ffea",
+    "Colour18-note": "",
+    "Colour18-hex": "80ffea",
+
+    "#Colour19-putty": "ANSI Cyan Bright - 1;36m",
+    "Colour19-comment": "",
+    "Colour19-note": "",
+    "Colour19-hex": "",
+
+    "#Colour20-putty": "ANSI White - 37m / 47m",
+    "Colour20-comment": "https://github.com/facelessuser/sublime-dracula-scheme does not explictly set this, so map to same as; Default Foreground",
+    "Colour20-note": "",
+    "Colour20-hex": "f8f8f2",
+
+    "#Colour21-putty": "ANSI White Bright - 1;37m",
+    "Colour21-comment": "",
+    "Colour21-note": "",
+    "Colour21-hex": ""
+}
