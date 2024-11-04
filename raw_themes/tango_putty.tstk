@@ -1,6 +1,9 @@
 {
-    "scheme-name" : "Tango_Putty",
-    "#comment" : "extracted/converted from https://winterdom.com/2009/05/03/configuring-putty-with-tango",
+    "scheme-name": "Tango_Putty",
+    "scheme-author": "Winterdom / Tomas Restrepo",
+    "scheme-slug": "Tango_Putty-dark",
+    "scheme-comment":  "Based on https://web.archive.org/web/20231211213143/https://tango.freedesktop.org/Tango_Icon_Theme_Guidelines",
+    "scheme-comment1": "extracted/converted from https://winterdom.com/2009/05/03/configuring-putty-with-tango",
       "Colour0" : "187,187,187",
       "Colour1" : "255,255,255",
       "Colour2" : "8,8,8",
