@@ -157,9 +157,9 @@ Windows Registry Editor Version 5.00
 
 ; ANSI White Bright
 ; 1;37m
-; Colour20-comment: 
-;    Colour20-note: 
-;         Colour20: #ffffff
-"Colour20"="255,255,255"
+; Colour21-comment: 
+;    Colour21-note: 
+;         Colour21: #ffb6db
+"Colour21"="255,182,219"
 
 ; {{! Theme rendered with https://github.com/clach04/terminal_style_toolkit }}
