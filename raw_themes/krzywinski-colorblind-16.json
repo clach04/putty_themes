@@ -1,6 +1,6 @@
 {
     "scheme-name" : "krzywinski-colorblind-16",
-    "#comment" : "extracted/converted from https://lospec.com/palette-list/krzywinski-colorblind-16",
+    "scheme-comment" : "extracted/converted from https://lospec.com/palette-list/krzywinski-colorblind-16",
 
     "Colour0" : "255,255,255",
     "#" : "Default Foreground",
@@ -50,11 +50,11 @@
     "Colour15" : "109,182,255",
     "#" : "ANSI Blue Bright - 1;34m",
 
-    "#comment_Magenta" : "consider switching with bright/bold?",
+    "Colour16-comment" : "consider switching with bright/bold?",
     "Colour16" : "73,0,146",
     "#" : "ANSI Magenta - 35m / 45m",
 
-    "#comment_MagentaBright" : "consider switching with regular?",
+    "Colour17-comment" : "consider switching with regular?",
     "Colour17" : "182,109,255",
     "#" : "ANSI Magenta Bright - 1;35m",
 
