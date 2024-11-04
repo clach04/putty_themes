@@ -1,6 +1,8 @@
 {
     "scheme-name" : "krzywinski-colorblind-16",
+    "scheme-author": "Martin Krzywinski",
     "scheme-comment" : "extracted/converted from https://lospec.com/palette-list/krzywinski-colorblind-16",
+    "scheme-comment1": "https://lospec.com/0x29",
 
     "Colour0" : "255,255,255",
     "#" : "Default Foreground",

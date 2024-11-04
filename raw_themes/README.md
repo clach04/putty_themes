@@ -1,5 +1,10 @@
 Themes in various formats that have not been converted into a Putty theme.
 
+To generate:
+
+    cd ..\themes
+    py -3 FULL_PATH\terminal_style_toolkit\putty\batch_build.py ..\raw_themes FULL_PATH\terminal_style_toolkit\putty\putty_reg.mustache .reg
+
 AKA the TODO list ;-)
 
 Tango-Palette.gpl from https://web.archive.org/web/20230329090429/http://tango.freedesktop.org/static/cvs/tango-art-tools/palettes/Tango-Palette.gpl
