@@ -1,6 +1,7 @@
 {
     "scheme-name" : "krzywinski-colorblind-16",
     "scheme-author": "Martin Krzywinski",
+    "scheme-slug": "krzywinski-colorblind-16-dark",
     "scheme-comment" : "extracted/converted from https://lospec.com/palette-list/krzywinski-colorblind-16",
     "scheme-comment1": "https://lospec.com/0x29",
 
