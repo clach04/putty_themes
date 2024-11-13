@@ -1,11 +1,10 @@
 {
     "####": "JSON template, result can be ran through https://github.com/clach04/terminal_style_toolkit/ tools",
-    "####": "converted from https://github.com/alacritty/alacritty-theme/blob/master/themes/dracula_plus.toml",
     "scheme-name": "alacritty_dracula",
     "scheme-author": "alacritty and clach04",
     "scheme-slug": "alacritty_dracula",
     "scheme-comment":  "NOTE less than 16 colors, and differs from Dracula spec as of 2024 https://spec.draculatheme.com/ - https://github.com/dracula/spec/blob/master/dracula-spec.md",
-    "#scheme-comment2": "",
+    "scheme-comment1": "converted from https://github.com/alacritty/alacritty-theme/blob/master/themes/dracula.toml",
 
 
     "#Colour0-putty": "Default Foreground",
