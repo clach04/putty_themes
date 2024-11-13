@@ -1,5 +1,7 @@
 {
     "####": "JSON template, result can be ran through https://github.com/clach04/terminal_style_toolkit/ tools",
+    "####": "FIXME / TODO review name to match slug? This is a dark theme",
+    "#scheme-name": "Tango_Putty-dark",
     "scheme-name": "Tango_Putty",
     "scheme-author": "Winterdom / Tomas Restrepo",
     "scheme-slug": "Tango_Putty-dark",
