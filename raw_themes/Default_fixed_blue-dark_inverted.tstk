@@ -1,7 +1,7 @@
 {
     "####": "JSON template, result can be ran through https://github.com/clach04/terminal_style_toolkit/ tools",
     "scheme-name": "Default_fixed_blue-dark_inverted",
-    "scheme-author": ""Putty authors, Dag Wieers, clach04",
+    "scheme-author": "Putty authors, Dag Wieers, clach04",
     "scheme-slug": "Default_fixed_blue-dark_inverted",
     "scheme-comment":  "Basically Default_fixed_blue but inverted foreground and background",
     "scheme-comment1": "",

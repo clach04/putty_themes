@@ -1,7 +1,7 @@
 {
     "####": "JSON template, result can be ran through https://github.com/clach04/terminal_style_toolkit/ tools",
     "scheme-name": "Default_fixed_blue-dark",
-    "scheme-author": ""Putty authors and Dag Wieers",
+    "scheme-author": "Putty authors and Dag Wieers",
     "scheme-slug": "Default_fixed_blue-dark",
     "scheme-comment":  "Blue changes from Dag Wieers - see https://web.archive.org/web/20191231204120/http://dag.wiee.rs/blog/content/improving-putty-settings-on-windows",
     "scheme-comment1": "",
