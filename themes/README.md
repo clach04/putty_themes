@@ -19,3 +19,8 @@ Suggestions for taking screenshots:
   3. Decide if want to include Putty title/scrollbars? - Crop pixels size?
   4. save as PNG
 
+## Generation
+
+    py -3 batch_build_any.py --output_extension .reg ../raw_themes/*.tstk
+    py -3 batch_build_any.py --output_extension ""  -t mintty_theme.mustache  ../raw_themes/*.tstk
+    # mintty_screenshot.py ...
