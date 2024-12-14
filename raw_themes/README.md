@@ -122,3 +122,8 @@ From https://github.com/mbadolato/iTerm2-Color-Schemes
 
 > [_iTerm2 Tango Dark_](#iterm2-tango-dark), and [_iTerm2 Tango Light_](#iterm2-tango-light)
 > are ports from the built-in color schemes of iTerm2 (current source is iTerm2 v3.4.19).
+
+
+### Misc / Random
+
+  * https://github.com/Matsuuu/pinkmare
