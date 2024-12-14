@@ -126,4 +126,5 @@ From https://github.com/mbadolato/iTerm2-Color-Schemes
 
 ### Misc / Random
 
+  * https://github.com/rebelot/kanagawa.nvim
   * https://github.com/Matsuuu/pinkmare
