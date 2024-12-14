@@ -126,5 +126,11 @@ From https://github.com/mbadolato/iTerm2-Color-Schemes
 
 ### Misc / Random
 
+  * https://github.com/ayu-theme/ayu-colors
+      * https://github.com/alacritty/alacritty-theme
+          * https://github.com/alacritty/alacritty-theme/blob/master/themes/ayu_dark.toml
+          * https://github.com/alacritty/alacritty-theme/blob/master/themes/ayu_light.toml
+          * https://github.com/alacritty/alacritty-theme/blob/master/themes/ayu_mirage.toml
+  * https://github.com/sainnhe/gruvbox-material
   * https://github.com/rebelot/kanagawa.nvim
   * https://github.com/Matsuuu/pinkmare
