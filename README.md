@@ -8,6 +8,7 @@ Also see https://github.com/clach04/terminal_style_toolkit
 
   * themes - Putty themes in Microsoft Windows Registry format - colors ONLY
   * raw_themes - raw (various) format themes, probably not present in themes
+  * images - preview PNG images/pictures/screenshots of themes
 
 ## Putty Settings
 
