@@ -1,0 +1,127 @@
+{
+    "####": "JSON template, result can be ran through https://github.com/clach04/terminal_style_toolkit/ tools",
+    "scheme-name": "selenized-light_ojford_santoso-wijaya",
+    "scheme-author": "ojford and santoso-wijaya",
+    "scheme-slug": "selenized-light_ojford_santoso-wijaya",
+    "scheme-comment":  "https://github.com/OJFord/selenized/tree/fix-111",
+    "scheme-comment1": "https://github.com/santoso-wijaya/selenized/tree/alacritty",
+    "scheme-comment2": "",
+    "scheme-comment3": "",
+    "scheme-comment4": "",
+    "scheme-comment5": "",
+    "scheme-comment6": "",
+    "scheme-comment7": "",
+    "scheme-comment8": "",
+    "scheme-comment9": "",
+
+
+    "#Colour0-putty": "Default Foreground",
+    "Colour0-comment": "",
+    "Colour0-note": "",
+    "Colour0-hex": "53676d",
+
+    "#Colour1-putty": "Default Bold Foreground  -- equals to non-bold",
+    "Colour1-comment": "",
+    "Colour1-note": "",
+    "Colour1-hex": "53676d",
+
+    "#Colour2-putty": "Default Background",
+    "Colour2-comment": "",
+    "Colour2-note": "",
+    "Colour2-hex": "fbf3db",
+
+    "#Colour3-putty": "Default Bold Background  -- equals to non-bold",
+    "Colour3-comment": "",
+    "Colour3-note": "",
+    "Colour3-hex": "fbf3db",
+
+    "#Colour4-putty": "Cursor Text -- equals to default background",
+    "Colour4-comment": "",
+    "Colour4-note": "",
+    "Colour4-hex": "fbf3db",
+
+    "#Colour5-putty": "Cursor Colour -- equals to default foreground",
+    "Colour5-comment": "",
+    "Colour5-note": "",
+    "Colour5-hex": "53676d",
+
+    "#Colour6-putty": "ANSI Black - 30m / 40m",
+    "Colour6-comment": "",
+    "Colour6-note": "",
+    "Colour6-hex": "ece3cc",
+
+    "#Colour7-putty": "ANSI Black Bright - 1;30m",
+    "Colour7-comment": "",
+    "Colour7-note": "",
+    "Colour7-hex": "d5cdb6",
+
+    "#Colour8-putty": "ANSI Red - 31m / 41m",
+    "Colour8-comment": "",
+    "Colour8-note": "",
+    "Colour8-hex": "d2212d",
+
+    "#Colour9-putty": "ANSI Red Bright - 1;31m",
+    "Colour9-comment": "",
+    "Colour9-note": "",
+    "Colour9-hex": "cc1729",
+
+    "#Colour10-putty": "ANSI Green - 32m / 42m",
+    "Colour10-comment": "",
+    "Colour10-note": "",
+    "Colour10-hex": "489100",
+
+    "#Colour11-putty": "ANSI Green Bright - 1;32m",
+    "Colour11-comment": "",
+    "Colour11-note": "",
+    "Colour11-hex": "428b00",
+
+    "#Colour12-putty": "ANSI Yellow - 33m / 43m",
+    "Colour12-comment": "",
+    "Colour12-note": "",
+    "Colour12-hex": "ad8900",
+
+    "#Colour13-putty": "ANSI Yellow Bright - 1;33m",
+    "Colour13-comment": "",
+    "Colour13-note": "",
+    "Colour13-hex": "a78300",
+
+    "#Colour14-putty": "ANSI Blue - 34m / 44m",
+    "Colour14-comment": "",
+    "Colour14-note": "",
+    "Colour14-hex": "0072d4",
+
+    "#Colour15-putty": "ANSI Blue Bright - 1;34m",
+    "Colour15-comment": "",
+    "Colour15-note": "",
+    "Colour15-hex": "006dce",
+
+    "#Colour16-putty": "ANSI Magenta - 35m / 45m",
+    "Colour16-comment": "",
+    "Colour16-note": "",
+    "Colour16-hex": "ca4898",
+
+    "#Colour17-putty": "ANSI Magenta Bright - 1;35m",
+    "Colour17-comment": "",
+    "Colour17-note": "",
+    "Colour17-hex": "c44392",
+
+    "#Colour18-putty": "ANSI Cyan - 36m / 46m",
+    "Colour18-comment": "",
+    "Colour18-note": "",
+    "Colour18-hex": "009c8f",
+
+    "#Colour19-putty": "ANSI Cyan Bright - 1;36m",
+    "Colour19-comment": "",
+    "Colour19-note": "",
+    "Colour19-hex": "00978a",
+
+    "#Colour20-putty": "ANSI White - 37m / 47m",
+    "Colour20-comment": "",
+    "Colour20-note": "",
+    "Colour20-hex": "909995",
+
+    "#Colour21-putty": "ANSI White Bright - 1;37m",
+    "Colour21-comment": "",
+    "Colour21-note": "",
+    "Colour21-hex": "3a4d53"
+}
