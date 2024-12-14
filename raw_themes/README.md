@@ -98,11 +98,18 @@ which fixes RGB Hex values don't match Nord palette values https://github.com/no
     elements. Using nord12 may be a stretch for Bright Yellow. With both
     these changes, all of Frost and Aurora are available.
 
-### Selenized
+### Selenized (Solarized)
 
   * https://github.com/jan-warchol/selenized
       * https://github.com/clach04/selenized/branches/
       * https://codeberg.org/dnkl/foot/src/branch/master/themes/selenized-dark
+
+  * https://swijaya.com/solarized-selenized-cheatsheet - comparing Solarized & Selenized
+      * https://swijaya.com/jekyll/solarized
+  * https://www.zovirl.com/2011/07/22/solarized_cheat_sheet/
+  * https://github.com/bhdicaire/solarized
+  * https://ericnormand.me/article/solarized-cheat-sheet
+
 
 ### Tango
 
