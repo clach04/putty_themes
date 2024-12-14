@@ -97,3 +97,21 @@ which fixes RGB Hex values don't match Nord palette values https://github.com/no
     Bright Blue uses nord10, the next accent level, for tertiary UI
     elements. Using nord12 may be a stretch for Bright Yellow. With both
     these changes, all of Frost and Aurora are available.
+
+### Selenized
+
+  * https://github.com/jan-warchol/selenized
+      * https://github.com/clach04/selenized/branches/
+      * https://codeberg.org/dnkl/foot/src/branch/master/themes/selenized-dark
+
+### Tango
+
+  * https://github.com/mbadolato/iTerm2-Color-Schemes#iterm2-tango-dark
+  * https://github.com/mbadolato/iTerm2-Color-Schemes#iterm2-tango-light
+  * https://github.com/mbadolato/iTerm2-Color-Schemes#tango-adapted
+  * https://github.com/mbadolato/iTerm2-Color-Schemes#tango-half-adapted
+
+From https://github.com/mbadolato/iTerm2-Color-Schemes
+
+> [_iTerm2 Tango Dark_](#iterm2-tango-dark), and [_iTerm2 Tango Light_](#iterm2-tango-light)
+> are ports from the built-in color schemes of iTerm2 (current source is iTerm2 v3.4.19).
