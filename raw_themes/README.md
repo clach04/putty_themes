@@ -143,5 +143,6 @@ Reminds me of Dracula.
       * https://www.schemecolor.com/super-mario-colors.php
       * https://www.deviantart.com/thewolfbunny64/art/Super-Mario-Series-Color-Schemes-687003521
       * https://www.color-hex.com/color-palette/1010036
-      * https://color.adobe.com/o-color-theme-660477/ MicroProse Red, Chun-Li Blue, Quinoline Yellow, Roman Empire Red and Bleached Silk.
-      * 
+      * https://color.adobe.com/o-color-theme-660477/ MicroProse Red, Chun-Li Blue, Quinoline Yellow, Roman Empire Red and Bleached Silk.    * https://github.com/clach04/putty_themes/issues/8
+   
+
