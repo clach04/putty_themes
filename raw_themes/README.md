@@ -98,6 +98,16 @@ which fixes RGB Hex values don't match Nord palette values https://github.com/no
     elements. Using nord12 may be a stretch for Bright Yellow. With both
     these changes, all of Frost and Aurora are available.
 
+### Pico-8
+
+  * https://github.com/clach04/putty_themes/blob/master/raw_themes/pico-8.gpl
+  * https://lospec.com/palette-list/pico-8
+  * https://www.lexaloffle.com/bbs/?tid=3386
+  * https://pico-8.fandom.com/wiki/Palette
+  * https://mboffin.itch.io/pico8-color-reference
+  * https://nerdyteachers.com/PICO-8/Guide/PALETTES
+  * https://www.reddit.com/r/pico8/comments/hhxvgs/palette_viewer_with_correct_hex_values/
+
 ### Selenized (Solarized)
 
   * https://github.com/jan-warchol/selenized
