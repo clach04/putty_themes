@@ -120,6 +120,8 @@ which fixes RGB Hex values don't match Nord palette values https://github.com/no
   * https://github.com/bhdicaire/solarized
   * https://ericnormand.me/article/solarized-cheat-sheet
 
+https://gitlab.com/jgkamat/darculized
+https://github.com/alphapapa/solarized-everything-css/tree/master/themes/darculized
 
 ### Tango
 
