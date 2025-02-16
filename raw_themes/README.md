@@ -149,6 +149,8 @@ Reminds me of Dracula.
           * https://github.com/alacritty/alacritty-theme/blob/master/themes/ayu_light.toml
           * https://github.com/alacritty/alacritty-theme/blob/master/themes/ayu_mirage.toml
   * https://github.com/sainnhe/gruvbox-material
+  * gruvbox8
+      * retrobox
   * https://github.com/rebelot/kanagawa.nvim
   * https://github.com/Matsuuu/pinkmare
   * Mario
@@ -156,5 +158,7 @@ Reminds me of Dracula.
       * https://www.deviantart.com/thewolfbunny64/art/Super-Mario-Series-Color-Schemes-687003521
       * https://www.color-hex.com/color-palette/1010036
       * https://color.adobe.com/o-color-theme-660477/ MicroProse Red, Chun-Li Blue, Quinoline Yellow, Roman Empire Red and Bleached Silk.    * https://github.com/clach04/putty_themes/issues/8
-   
+  * Mustang
+     * https://www.deviantart.com/hcalves/art/Mustang-Textmate-Colorscheme-176451108
+     * https://www.deviantart.com/hcalves/art/Vitamins-Vim-Colorscheme-98630379
 
