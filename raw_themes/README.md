@@ -141,6 +141,13 @@ https://github.com/theacodes/witchhazel/tree/master/alacritty
 
 Reminds me of Dracula.
 
+### srcery
+
+  * https://github.com/srcery-colors/srcery-palette/blob/main/palette.json
+  * https://srcery.sh/themes/
+  * https://github.com/srcery-colors/srcery-terminal
+      * https://github.com/srcery-colors/srcery-terminal/tree/master/putty
+
 ### Misc / Random
 
   * https://github.com/ayu-theme/ayu-colors
