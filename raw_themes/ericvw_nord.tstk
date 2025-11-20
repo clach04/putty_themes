@@ -2,7 +2,8 @@
     "scheme-name": "Nord",
     "scheme-author": "Eric N. Vander Weele (ericvw)",
     "scheme-slug": "Nord",
-    "#scheme-comment":  "taken from https://github.com/ericvw/nordtheme-iterm2/commit/8ea99f6185dd5dc80de07cd922f8a287ef862cb1",
+    "#scheme-comment":  "taken from ericvw PR https://github.com/nordtheme/iterm2/pull/16",
+    "#scheme-comment2": "based on https://www.nordtheme.com/docs/colors-and-palettes",
     "#scheme-comment2": "based on https://www.nordtheme.com/docs/colors-and-palettes",
 
 
