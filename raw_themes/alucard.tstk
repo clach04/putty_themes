@@ -10,6 +10,8 @@
     "scheme-comment4": "Unused: Selection : #CFCFDE - Official Alucard selection is not a config option for Putty",
     "scheme-comment5": "Unused: Orange : #A34D14 - Official Alucard orange not part of the ANSI 16-color palette",
     "scheme-comment6": "Source for https://github.com/clach04/dracula_putty",
+    "scheme-comment8": "TODO consider Purple for cursor",
+    "scheme-comment9": "TODO review Default Bold Background",
 
     "#Colour0-putty": "Default Foreground",
     "Colour0-comment": "Default Foreground",
