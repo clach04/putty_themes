@@ -143,6 +143,11 @@ Reminds me of Dracula.
 
 ### srcery
 
+See:
+
+    raw_themes/srcery.tstk
+    themes/srcery.reg
+
   * https://github.com/srcery-colors/srcery-palette/blob/main/palette.json
   * https://srcery.sh/themes/
   * https://github.com/srcery-colors/srcery-terminal
