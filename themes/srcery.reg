@@ -2,8 +2,8 @@ Windows Registry Editor Version 5.00
 
 ; Putty Theme srcery
 ; Scheme author: unnamed
-; scheme-comment:  Converted from https://github.com/srcery-colors/srcery-terminal/blob/master/putty/srcery_putty.reg
-; scheme-comment1: TODO review Cursor Colour (possible upstream bug); Putty has fce8c3 (White Bright), where as srcery_alacritty.toml has fbb829 (Yellow)
+; scheme-comment:  Converted (and fixed) from https://github.com/srcery-colors/srcery-terminal/blob/master/putty/srcery_putty.reg and srcery_alacritty.toml
+; scheme-comment1: Cursor Colour (upstream bug https://github.com/srcery-colors/srcery-terminal/issues/304); Putty incorrectly has fce8c3 (White Bright), where as srcery_alacritty.toml has fbb829 (Yellow)
 ; scheme-comment2: 
 ; scheme-comment3: 
 ; scheme-comment4: 
@@ -47,8 +47,8 @@ Windows Registry Editor Version 5.00
 ; Cursor Colour -- equals to default foreground
 ;  Colour5-comment: 
 ;     Colour5-note: 
-;          Colour5: #fce8c3
-"Colour5"="252,232,195"
+;          Colour5: #fbb829
+"Colour5"="251,184,41"
 
 ; ANSI Black
 ; 30m / 40m
