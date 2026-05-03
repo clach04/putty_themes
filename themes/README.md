@@ -21,6 +21,7 @@ Suggestions for taking screenshots:
 
 ## Generation
 
+    py -3 ..\putty\batch_build.py C:\code\terminal\putty_themes\raw_themes\  ..\putty\mintty_theme.mustache  ""
     py -3 batch_build_any.py --output_extension .reg ../raw_themes/*.tstk
     py -3 batch_build_any.py --output_extension ""  -t mintty_theme.mustache  ../raw_themes/*.tstk
     # mintty_screenshot.py ...
