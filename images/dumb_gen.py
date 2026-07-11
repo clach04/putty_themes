@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 # py -3 dumb_gen.py > README.md
 
